@@ -559,6 +559,13 @@ input, select, textarea {
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
+		
+		#header h2 {
+			font-size: 2.0em;
+			font-weight: 900;
+			letter-spacing: -0.035em;
+			line-height: 1em;
+		}
 
 		#header p {
 			font-size: 1.25em;
@@ -981,7 +988,11 @@ input, select, textarea {
 		#header h1 {
 			font-size: 2.5em;
 		}
-
+    
+    #header h2 {
+			font-size: 1.5em;
+		}
+		
 		#header p {
 			font-size: 1em;
 		}
